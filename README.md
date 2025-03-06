@@ -45,8 +45,7 @@ Follow the steps below to set up and run the project on your local machine.
 To start the development server, use the following command:
    ```bash
    python manage.py runserver
-
-
+   ```
 The development server will start at http://127.0.0.1:8000/
 
 
